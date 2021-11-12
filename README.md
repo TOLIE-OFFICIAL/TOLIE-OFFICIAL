@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TOLIE-OFFICIAL
-- 👀 Hoping to become a Fornt End engineer.
+- 👀 Hoping to become a ```Fornt End engineer```.
 - 🌱 I’m currently learning DM and Web.
 - 📫 please email me ben37839@gmail.com
 <!---- 💞️ I’m looking to collaborate on ...--->
