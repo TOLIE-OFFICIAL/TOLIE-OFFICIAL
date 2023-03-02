@@ -40,7 +40,7 @@
 [![website](./img/twitter-light.svg)]()
 <br/>
 
-[thanks for codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+[thanks for codeSTACKr](https://github.com/codeSTACKr)
 
 ---
 
