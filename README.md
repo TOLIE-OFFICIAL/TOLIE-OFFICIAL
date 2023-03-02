@@ -35,8 +35,8 @@
 
 ### Connect with me:
 
-[![website](./img/bilibili.svg)](https://space.bilibili.com/388791746)
-[![website](./img/email.svg)](mailto:ben37839@gmail.com)
+[![website](./img/bilibili.svg)](https://space.bilibili.com/388791746)&nbsp;
+[![website](./img/email.svg)](mailto:ben37839@gmail.com)&nbsp;
 [![website](./img/twitter-light.svg)]()
 <br/>
 
